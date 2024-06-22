@@ -60,8 +60,6 @@ tts = gtts.gTTS(result)
 tts.save("output_audio.mp3")
 ```
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
 
